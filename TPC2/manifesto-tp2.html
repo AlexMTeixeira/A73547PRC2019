@@ -44,21 +44,47 @@
       
       <hr>
       <h3>Resumo:</h3>
-      
-      
+      <p> Inicialmente, foi necessário criar uma espesificação das <b>classes</b> a serem representadas em <b>Turtle</b>:
+         <ul>
+            <li> <b>Prizes</b></li>
+            <ul>
+               <li>year</li>
+               <li>category</li>
+               <li>overallMotivation</li>
+               <li>Laureates</li>
+            </ul>
+            <li><b>Laureate</b></li>
+            <ul>
+               <li>firstname</li>
+               <li>surname</li>
+               <li>motivation</li>
+               <li>share</li>
+            </ul>
+         </ul>
+         Após isto, utilizado <b>Protégé</b>, foi criado o ficheiro <b>TTL</b> com a representação das relações entre as entidades.
+      </p>
+      <p>
+         De seguida, foi criado um <b>script Python</b> capaz de converter o ficheiro json em Turtle.
+      </p>
+      <p>
+         Finalmente, foi utilizado o comando <b>$ cat</b> para concatenar os ficheiros anteriores. Além disso, foi utilizado o comando <b>$ rapper -c -i turtle prizes.ttl</b> para verificar a estrutura do documento.
+      </p>
       <hr>
       
       <hr>
       <h3>Resultados:</h3>
       <ul>
          
-         <li><a href="pn.dtd">DTD para o processo de negócio.</a></li>
+         <li><a href="https://github.com/anguinho/A73547PRC2019/blob/master/TPC2/json2ttl.py">Conversor do Ficheiro JSON (prize.json) para Turtle (out.ttl) </a></li>
          
-         <li><a href="manifesto-tp2.xml">XML com o conteudo do manifesto.</a></li>
+         <li><a href="https://github.com/anguinho/A73547PRC2019/blob/master/TPC2/prize.json">Ficheiro Json que comtém o dataset</a></li>
          
-         <li><a href="manif2html.xsl">Schema de conversão XML para HTML.</a></li>
+         <li><a href="https://github.com/anguinho/A73547PRC2019/blob/master/TPC2/prizes_protege.ttl">Ficheiro Turtle originado pelo Protégé</a></li>
          
-         <li><a href="manifesto-tp2.html">Manifesto representado em HTML.</a></li>
+         <li><a href="https://github.com/anguinho/A73547PRC2019/blob/master/TPC2/out.ttl">Ficheiro Turtle originado pelo Parser</a></li>
+
+         <li><a href="https://github.com/anguinho/A73547PRC2019/blob/master/TPC2/prizes.ttl">Ficheiro Turtle originado pela concatenação dos 2 Turtle anteriores</a></li>
+
          
       </ul>
       <hr>
