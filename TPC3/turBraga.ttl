@@ -1,0 +1,390 @@
+@prefix : <http://prc.di.uminho.pt/2019/TurismoBraga#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://prc.di.uminho.pt/2019/TurismoBraga> .
+
+<http://prc.di.uminho.pt/2019/TurismoBraga> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#pertenceA
+:pertenceA rdf:type owl:ObjectProperty ;
+           rdfs:domain :Servico ;
+           rdfs:range :Cidade ,
+                      :TurismoBraga .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temCartaz
+:temCartaz rdf:type owl:ObjectProperty ;
+           rdfs:domain :Evento ;
+           rdfs:range :Cartaz .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temEmenta
+:temEmenta rdf:type owl:ObjectProperty ;
+           rdfs:domain :Alimentacao ;
+           rdfs:range :Ementa .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temEvento
+:temEvento rdf:type owl:ObjectProperty ;
+           rdfs:domain :Cidade ;
+           rdfs:range :Evento .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temItem
+:temItem rdf:type owl:ObjectProperty ;
+         rdfs:domain :Ementa ;
+         rdfs:range :Item .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temMonumento
+:temMonumento rdf:type owl:ObjectProperty ;
+              rdfs:domain :Cidade ;
+              rdfs:range :Monumento .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temParque
+:temParque rdf:type owl:ObjectProperty ;
+           rdfs:domain :Cidade ;
+           rdfs:range :Parque .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temPonto
+:temPonto rdf:type owl:ObjectProperty .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#temServico
+:temServico rdf:type owl:ObjectProperty ;
+            rdfs:domain :Cidade ,
+                        :Monumento ;
+            rdfs:range :Servico .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#arquitetura
+:arquitetura rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Monumento ;
+             rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#data
+:data rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Cartaz ;
+      rdfs:range xsd:dateTime .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#descricao
+:descricao rdf:type owl:DatatypeProperty ;
+           rdfs:domain :TurismoBraga ;
+           rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#espetaculo
+:espetaculo rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Cartaz ;
+            rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#horario
+:horario rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Servico .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#localizacao
+:localizacao rdf:type owl:DatatypeProperty ;
+             rdfs:domain :TurismoBraga ;
+             rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#preco
+:preco rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Item .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#rota
+:rota rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Deslocacao ;
+      rdfs:range xsd:string .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#tipo
+:tipo rdf:type owl:DatatypeProperty ;
+      rdfs:domain :TurismoBraga ;
+      rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Acomodacao
+:Acomodacao rdf:type owl:Class ;
+            rdfs:subClassOf :Servico .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Alimentacao
+:Alimentacao rdf:type owl:Class ;
+             rdfs:subClassOf :Servico .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Bus
+:Bus rdf:type owl:Class ;
+     rdfs:subClassOf :Deslocacao .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Cafe
+:Cafe rdf:type owl:Class ;
+      rdfs:subClassOf :Alimentacao .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Cartaz
+:Cartaz rdf:type owl:Class .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Cidade
+:Cidade rdf:type owl:Class .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Comboio
+:Comboio rdf:type owl:Class ;
+         rdfs:subClassOf :Deslocacao .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Deslocacao
+:Deslocacao rdf:type owl:Class ;
+            rdfs:subClassOf :Servico .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Ementa
+:Ementa rdf:type owl:Class .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Evento
+:Evento rdf:type owl:Class ;
+        rdfs:subClassOf :TurismoBraga .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Hotel
+:Hotel rdf:type owl:Class ;
+       rdfs:subClassOf :Acomodacao .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Item
+:Item rdf:type owl:Class .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Monumento
+:Monumento rdf:type owl:Class ;
+           rdfs:subClassOf :TurismoBraga .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Mosteiro
+:Mosteiro rdf:type owl:Class ;
+          rdfs:subClassOf :Monumento .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Motel
+:Motel rdf:type owl:Class ;
+       rdfs:subClassOf :Acomodacao .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Museu
+:Museu rdf:type owl:Class ;
+       rdfs:subClassOf :Monumento .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Palacio
+:Palacio rdf:type owl:Class ;
+         rdfs:subClassOf :Monumento .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Parque
+:Parque rdf:type owl:Class ;
+        rdfs:subClassOf :TurismoBraga .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#PasseioTuristico
+:PasseioTuristico rdf:type owl:Class .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Restaurante
+:Restaurante rdf:type owl:Class ;
+             rdfs:subClassOf :Alimentacao .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Santuario
+:Santuario rdf:type owl:Class ;
+           rdfs:subClassOf :Monumento .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Servico
+:Servico rdf:type owl:Class .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Taxi
+:Taxi rdf:type owl:Class ;
+      rdfs:subClassOf :Deslocacao .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#TurismoBraga
+:TurismoBraga rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#ABrasileira
+:ABrasileira rdf:type owl:NamedIndividual ,
+                       :Cafe ;
+              :temEmenta :EmentaBrasileira .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#BomJesus
+:BomJesus rdf:type owl:NamedIndividual ;
+           :temServico :Elevador .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Braga
+:Braga rdf:type owl:NamedIndividual ,
+                :Cidade ;
+       :temCartaz :CartazBR ;
+       :temMonumento :BomJesus ,
+                     :JardinsStaBarbara ,
+                     :PalacioRaio ,
+                     :Sameiro ;
+       :temServico :TrajetoCP ,
+                   :Melia ,
+                   :TabernaBelga .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Braga_Romana
+:BragaRomana rdf:type owl:NamedIndividual ,
+                       :Evento ;
+              :temCartaz :CartazBR .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#CP1
+:TrajetoCP rdf:type owl:NamedIndividual ,
+              :Comboio ;
+     :rota "Braga-Porto" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#CP2
+:TrajetoCP rdf:type owl:NamedIndividual ;
+     :rota "Braga-Guimaraes" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Cafe
+:Cafe rdf:type owl:NamedIndividual ,
+               :Item ;
+      :preco 0.65 .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#CartazBR
+:CartazBR rdf:type owl:NamedIndividual ,
+                           :Cartaz ;
+                  :data "31 de Fevereiro" ;
+                  :espetaculo "QUALQUER COISA" ,
+                              "E MAIS OUTRA" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Elevador
+:Elevador rdf:type owl:NamedIndividual ,
+                   :Restaurante .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#EmentaBrasileira
+:EmentaBrasileira rdf:type owl:NamedIndividual ,
+                            :Ementa ;
+                   :temItem :Cafe .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#EmentaElevador
+:EmentaElevador rdf:type owl:NamedIndividual ,
+                          :Ementa ;
+                 :temItem :Hamburguer ,
+                          :TostaMista .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#EmentaTBelga
+:EmentaTBelga rdf:type owl:NamedIndividual ,
+                        :Ementa ;
+               :temItem :Francesinha .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Francesinha
+:Francesinha rdf:type owl:NamedIndividual ,
+                      :Item ;
+             :preco 10 .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Geres
+:Geres rdf:type owl:NamedIndividual ,
+                :Parque .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Hamburguer
+:Hamburguer rdf:type owl:NamedIndividual ,
+                     :Item ;
+            :preco 12 .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#JardinsStaBarbara
+:JardinsStaBarbara rdf:type owl:NamedIndividual ,
+                              :Parque ;
+                     :localizacao "Se de Braga" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Melia
+:Melia rdf:type owl:NamedIndividual ,
+                :Hotel ;
+       :localizacao "Rua Universidade" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#PalacioRaio
+:PalacioRaio rdf:type owl:NamedIndividual ,
+                          :Palacio ;
+                 :pertenceA :Braga ;
+                 :arquitetura "Barroco" ;
+                 :localizacao "Bracara" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Passeio
+:Passeio rdf:type owl:NamedIndividual ,
+                   :PasseioTuristico ;
+          :temPonto :BomJesus ,
+                    :PalacioRaio ,
+                    :Sameiro .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#Sameiro
+:Sameiro rdf:type owl:NamedIndividual ,
+                  :Santuario ;
+         :localizacao "Monte do Sameiro" ;
+         :tipo "Religioso" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#TabernaBelga
+:TabernaBelga rdf:type owl:NamedIndividual ,
+                        :Restaurante ;
+               :temEmenta :EmentaTBelga ;
+               :horario "11.00 - 23.00" .
+
+
+###  http://prc.di.uminho.pt/2019/TurismoBraga#TostaMista
+:TostaMista rdf:type owl:NamedIndividual ,
+                      :Item ;
+             :preco 3 .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
