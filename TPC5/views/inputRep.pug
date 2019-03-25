@@ -1,0 +1,37 @@
+extends layout
+
+block content
+  script(src="/javascripts/jquery-3.2.1.min.js")
+  script(src="/javascripts/ajax.js")
+  .w3-container
+    header.w3-container.w3-center.w3-teal
+      h1= 'Interrogando '+ uri +' com SPARQL'
+  .w3-row
+    .w3-col.w3-padding.s4
+        .w3-container.w3-border.w3-light-grey
+          h4 Format
+          select.w3-select(name="option" id="opt")
+            option(value="table" selected) Table
+            option(value="json") JSON
+            option(value="xml") XML
+          
+        br
+        .w3-container.w3-border.w3-light-grey
+            header.w3-container
+                h4 Input:
+        .w3-container.w3-border
+            input.w3-hide(value=uri id="uri")
+            textarea.w3-input(rows="10" cols="50" placeholder="Input here..." name="intext" id="intext")  
+            .w3-bar.w3-pale-green
+              .w3-bar-item.w3-button(id="proc") Processar
+              .w3-bar-item.w3-button(id="novo") Novo
+    .w3-col.w3-padding.s8
+        .w3-container.w3-border.w3-light-grey
+            header.w3-container
+                .w3-button.w3-teal.w3-right(id="limpa") Limpar resultados
+                h4 Resultado:
+        .w3-code.w3-border(style="overflow:scroll" id="resultado")
+        .w3-button.w3-teal(id="limpa") Limpar resultados
+  .w3-container
+    footer.w3-container.w3-teal
+      address Gerado por m51-sparql :: jcr :: ADAPTADO
