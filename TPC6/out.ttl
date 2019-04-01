@@ -1,0 +1,2671 @@
+
+### DISTRITOS
+        
+###  http://prc2018.di.uminho.pt/mapa#Dd1e5
+:Dd1e5 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "AVEIRO".
+            
+:Dd1e5 :temCidade :Cd1e12.              
+            
+:Dd1e5 :temCidade :Cd1e144.              
+            
+:Dd1e5 :temCidade :Cd1e202.              
+            
+:Dd1e5 :temCidade :Cd1e303.              
+            
+:Dd1e5 :temCidade :Cd1e398.              
+            
+:Dd1e5 :temCidade :Cd1e451.              
+            
+:Dd1e5 :temCidade :Cd1e484.              
+            
+:Dd1e5 :temCidade :Cd1e542.              
+            
+:Dd1e5 :temCidade :Cd1e575.              
+            
+:Dd1e5 :temCidade :Cd1e621.              
+            
+:Dd1e5 :temCidade :Cd1e679.              
+            
+:Dd1e5 :temCidade :Cd1e744.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e822
+:Dd1e822 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "CASTELO BRANCO".
+            
+:Dd1e822 :temCidade :Cd1e829.              
+            
+:Dd1e822 :temCidade :Cd1e868.              
+            
+:Dd1e822 :temCidade :Cd1e1068.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e1931
+:Dd1e1931 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "SANTARÉM".
+            
+:Dd1e1931 :temCidade :Cd1e1938.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e1999
+:Dd1e1999 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "COIMBRA".
+            
+:Dd1e1999 :temCidade :Cd1e2006.              
+            
+:Dd1e1999 :temCidade :Cd1e2126.              
+            
+:Dd1e1999 :temCidade :Cd1e2165.              
+            
+:Dd1e1999 :temCidade :Cd1e2211.              
+            
+:Dd1e1999 :temCidade :Cd1e2250.              
+            
+:Dd1e1999 :temCidade :Cd1e2389.              
+            
+:Dd1e1999 :temCidade :Cd1e2459.              
+            
+:Dd1e1999 :temCidade :Cd1e2505.              
+            
+:Dd1e1999 :temCidade :Cd1e2606.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e2641
+:Dd1e2641 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "LEIRIA".
+            
+:Dd1e2641 :temCidade :Cd1e2648.              
+            
+:Dd1e2641 :temCidade :Cd1e2700.              
+            
+:Dd1e2641 :temCidade :Cd1e2758.              
+            
+:Dd1e2641 :temCidade :Cd1e2779.              
+            
+:Dd1e2641 :temCidade :Cd1e2818.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e3660
+:Dd1e3660 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "GUARDA".
+            
+:Dd1e3660 :temCidade :Cd1e3667.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e3758
+:Dd1e3758 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "VISEU".
+            
+:Dd1e3758 :temCidade :Cd1e3765.              
+            
+:Dd1e3758 :temCidade :Cd1e3817.              
+            
+:Dd1e3758 :temCidade :Cd1e3961.              
+            
+:Dd1e3758 :temCidade :Cd1e4081.              
+            
+:Dd1e3758 :temCidade :Cd1e4151.              
+            
+:Dd1e3758 :temCidade :Cd1e4216.              
+            
+:Dd1e3758 :temCidade :Cd1e4299.              
+            
+:Dd1e3758 :temCidade :Cd1e4388.              
+            
+:Dd1e3758 :temCidade :Cd1e4452.              
+            
+:Dd1e3758 :temCidade :Cd1e4578.              
+            
+:Dd1e3758 :temCidade :Cd1e4661.              
+            
+:Dd1e3758 :temCidade :Cd1e4831.              
+            
+:Dd1e3758 :temCidade :Cd1e4883.              
+            
+:Dd1e3758 :temCidade :Cd1e5101.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e7606
+:Dd1e7606 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "LISBOA".
+            
+:Dd1e7606 :temCidade :Cd1e7613.              
+            
+:Dd1e7606 :temCidade :Cd1e7720.              
+            
+:Dd1e7606 :temCidade :Cd1e7753.              
+            
+:Dd1e7606 :temCidade :Cd1e7823.              
+            
+:Dd1e7606 :temCidade :Cd1e7899.              
+            
+:Dd1e7606 :temCidade :Cd1e7927.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e9869
+:Dd1e9869 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "BRAGA".
+            
+:Dd1e9869 :temCidade :Cd1e9876.              
+            
+:Dd1e9869 :temCidade :Cd1e9989.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e10135
+:Dd1e10135 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "PORTO".
+            
+:Dd1e10135 :temCidade :Cd1e10142.              
+            
+:Dd1e10135 :temCidade :Cd1e10397.              
+            
+:Dd1e10135 :temCidade :Cd1e10529.              
+            
+:Dd1e10135 :temCidade :Cd1e10735.              
+            
+:Dd1e10135 :temCidade :Cd1e10898.              
+            
+:Dd1e10135 :temCidade :Cd1e11099.              
+            
+:Dd1e10135 :temCidade :Cd1e11206.              
+            
+:Dd1e10135 :temCidade :Cd1e11363.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e11608
+:Dd1e11608 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "VILA REAL".
+            
+:Dd1e11608 :temCidade :Cd1e11615.              
+            
+:Dd1e11608 :temCidade :Cd1e11673.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e16131
+:Dd1e16131 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "BRAGANÇA".
+            
+:Dd1e16131 :temCidade :Cd1e16138.              
+            
+:Dd1e16131 :temCidade :Cd1e16270.              
+            
+:Dd1e16131 :temCidade :Cd1e16581.              
+            
+:Dd1e16131 :temCidade :Cd1e16824.              
+            
+:Dd1e16131 :temCidade :Cd1e16937.              
+            
+:Dd1e16131 :temCidade :Cd1e17175.              
+            
+:Dd1e16131 :temCidade :Cd1e17356.              
+            
+:Dd1e16131 :temCidade :Cd1e17451.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e20784
+:Dd1e20784 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "VIANA DO CASTELO".
+            
+:Dd1e20784 :temCidade :Cd1e20791.              
+            
+:Dd1e20784 :temCidade :Cd1e21114.              
+            
+:Dd1e20784 :temCidade :Cd1e21246.              
+            
+:Dd1e20784 :temCidade :Cd1e21366.              
+            
+:Dd1e20784 :temCidade :Cd1e21578.              
+            
+:Dd1e20784 :temCidade :Cd1e21717.              
+            
+:Dd1e20784 :temCidade :Cd1e21880.              
+            
+:Dd1e20784 :temCidade :Cd1e22203.              
+            
+:Dd1e20784 :temCidade :Cd1e22310.              
+            
+:Dd1e20784 :temCidade :Cd1e22565.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e22668
+:Dd1e22668 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "BEJA".
+            
+:Dd1e22668 :temCidade :Cd1e22675.              
+            
+:Dd1e22668 :temCidade :Cd1e22714.              
+            
+:Dd1e22668 :temCidade :Cd1e22772.              
+            
+:Dd1e22668 :temCidade :Cd1e22793.              
+            
+:Dd1e22668 :temCidade :Cd1e22808.              
+            
+:Dd1e22668 :temCidade :Cd1e22929.              
+            
+:Dd1e22668 :temCidade :Cd1e22968.              
+            
+:Dd1e22668 :temCidade :Cd1e23001.              
+            
+:Dd1e22668 :temCidade :Cd1e23047.              
+            
+:Dd1e22668 :temCidade :Cd1e23111.              
+            
+:Dd1e22668 :temCidade :Cd1e23169.              
+            
+:Dd1e22668 :temCidade :Cd1e23216.              
+            
+:Dd1e22668 :temCidade :Cd1e23268.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e23426
+:Dd1e23426 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "SETÚBAL".
+            
+:Dd1e23426 :temCidade :Cd1e23433.              
+            
+:Dd1e23426 :temCidade :Cd1e23479.              
+            
+:Dd1e23426 :temCidade :Cd1e23518.              
+            
+:Dd1e23426 :temCidade :Cd1e23594.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e23617
+:Dd1e23617 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ÉVORA".
+            
+:Dd1e23617 :temCidade :Cd1e23624.              
+            
+:Dd1e23617 :temCidade :Cd1e23670.              
+            
+:Dd1e23617 :temCidade :Cd1e23722.              
+            
+:Dd1e23617 :temCidade :Cd1e23755.              
+            
+:Dd1e23617 :temCidade :Cd1e23844.              
+            
+:Dd1e23617 :temCidade :Cd1e23971.              
+            
+:Dd1e23617 :temCidade :Cd1e24041.              
+            
+:Dd1e23617 :temCidade :Cd1e24068.              
+            
+:Dd1e23617 :temCidade :Cd1e24126.              
+            
+:Dd1e23617 :temCidade :Cd1e24147.              
+            
+:Dd1e23617 :temCidade :Cd1e24186.              
+            
+:Dd1e23617 :temCidade :Cd1e24208.              
+            
+:Dd1e23617 :temCidade :Cd1e24235.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e24276
+:Dd1e24276 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "PORTALEGRE".
+            
+:Dd1e24276 :temCidade :Cd1e24283.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e25671
+:Dd1e25671 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "FARO".
+            
+:Dd1e25671 :temCidade :Cd1e25678.              
+            
+:Dd1e25671 :temCidade :Cd1e25717.              
+            
+:Dd1e25671 :temCidade :Cd1e25756.              
+            
+:Dd1e25671 :temCidade :Cd1e25789.              
+            
+:Dd1e25671 :temCidade :Cd1e25822.              
+            
+:Dd1e25671 :temCidade :Cd1e25869.              
+            
+:Dd1e25671 :temCidade :Cd1e25915.              
+            
+:Dd1e25671 :temCidade :Cd1e25961.              
+            
+:Dd1e25671 :temCidade :Cd1e26037.              
+            
+:Dd1e25671 :temCidade :Cd1e26064.              
+            
+:Dd1e25671 :temCidade :Cd1e26103.              
+            
+:Dd1e25671 :temCidade :Cd1e26131.              
+            
+:Dd1e25671 :temCidade :Cd1e26146.              
+            
+:Dd1e25671 :temCidade :Cd1e26204.              
+            
+:Dd1e25671 :temCidade :Cd1e26268.              
+            
+:Dd1e25671 :temCidade :Cd1e26307.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e27811
+:Dd1e27811 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DA MADEIRA (MADEIRA)".
+            
+:Dd1e27811 :temCidade :Cd1e27818.              
+            
+:Dd1e27811 :temCidade :Cd1e27876.              
+            
+:Dd1e27811 :temCidade :Cd1e27915.              
+            
+:Dd1e27811 :temCidade :Cd1e27985.              
+            
+:Dd1e27811 :temCidade :Cd1e28024.              
+            
+:Dd1e27811 :temCidade :Cd1e28052.              
+            
+:Dd1e27811 :temCidade :Cd1e28085.              
+            
+:Dd1e27811 :temCidade :Cd1e28118.              
+            
+:Dd1e27811 :temCidade :Cd1e28157.              
+            
+:Dd1e27811 :temCidade :Cd1e28203.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e28233
+:Dd1e28233 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DE PORTO SANTO (MADEIRA)".
+            
+:Dd1e28233 :temCidade :Cd1e28240.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e28257
+:Dd1e28257 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DE SANTA MARIA (AÇORES)".
+            
+:Dd1e28257 :temCidade :Cd1e28264.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e28305
+:Dd1e28305 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DE SÃO MIGUEL (AÇORES)".
+            
+:Dd1e28305 :temCidade :Cd1e28312.              
+            
+:Dd1e28305 :temCidade :Cd1e28351.              
+            
+:Dd1e28305 :temCidade :Cd1e28415.              
+            
+:Dd1e28305 :temCidade :Cd1e28572.              
+            
+:Dd1e28305 :temCidade :Cd1e28618.              
+            
+:Dd1e28305 :temCidade :Cd1e28714.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e28762
+:Dd1e28762 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA TERCEIRA (AÇORES)".
+            
+:Dd1e28762 :temCidade :Cd1e28769.              
+            
+:Dd1e28762 :temCidade :Cd1e28895.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e28973
+:Dd1e28973 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DA GRACIOSA (AÇORES)".
+            
+:Dd1e28973 :temCidade :Cd1e28980.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e29015
+:Dd1e29015 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DE SÃO JORGE (AÇORES)".
+            
+:Dd1e29015 :temCidade :Cd1e29022.              
+            
+:Dd1e29015 :temCidade :Cd1e29061.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e29110
+:Dd1e29110 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DO PICO (AÇORES)".
+            
+:Dd1e29110 :temCidade :Cd1e29117.              
+            
+:Dd1e29110 :temCidade :Cd1e29163.              
+            
+:Dd1e29110 :temCidade :Cd1e29209.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e29250
+:Dd1e29250 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DO FAIAL (AÇORES)".
+            
+:Dd1e29250 :temCidade :Cd1e29257.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e29348
+:Dd1e29348 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DAS FLORES (AÇORES)".
+            
+:Dd1e29348 :temCidade :Cd1e29355.              
+            
+:Dd1e29348 :temCidade :Cd1e29407.              
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Dd1e29442
+:Dd1e29442 rdf:type owl:NamedIndividual ,
+:Distrito ;
+:nome "ILHA DO CORVO (AÇORES)".
+            
+:Dd1e29442 :temCidade :Cd1e29449.              
+            
+
+        
+### CIDADES
+        
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12
+:Cd1e12 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ÁGUEDA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e144
+:Cd1e144 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALBERGARIA-A-VELHA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e202
+:Cd1e202 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ANADIA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e398
+:Cd1e398 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ESTARREJA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e451
+:Cd1e451 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ÍLHAVO";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e484
+:Cd1e484 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MEALHADA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e542
+:Cd1e542 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MURTOSA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e575
+:Cd1e575 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OLIVEIRA DO BAIRRO";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e621
+:Cd1e621 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OVAR";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e679
+:Cd1e679 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SEVER DO VOUGA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e744
+:Cd1e744 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VAGOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e5.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e829
+:Cd1e829 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BELMONTE";
+:populacao "100000"
+:pertenceDistrito :Dd1e822.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e868
+:Cd1e868 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "COVILHÃ";
+:populacao "100000"
+:pertenceDistrito :Dd1e822.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1068
+:Cd1e1068 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FUNDÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e822.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1440
+:Cd1e1440 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "IDANHA-A-NOVA";
+:populacao "100000"
+:pertenceDistrito :Dd1e1270.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1553
+:Cd1e1553 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PENAMACOR";
+:populacao "100000"
+:pertenceDistrito :Dd1e1270.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1636
+:Cd1e1636 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA VELHA DE RÓDÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e1270.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1678
+:Cd1e1678 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OLEIROS";
+:populacao "100000"
+:pertenceDistrito :Dd1e1671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1761
+:Cd1e1761 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PROENÇA-A-NOVA";
+:populacao "100000"
+:pertenceDistrito :Dd1e1671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1807
+:Cd1e1807 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SERTÃ";
+:populacao "100000"
+:pertenceDistrito :Dd1e1671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1902
+:Cd1e1902 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA DE REI";
+:populacao "100000"
+:pertenceDistrito :Dd1e1671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e1938
+:Cd1e1938 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MAÇÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e1931.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2006
+:Cd1e2006 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ARGANIL";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2126
+:Cd1e2126 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "GÓIS";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2165
+:Cd1e2165 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LOUSÃ";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2211
+:Cd1e2211 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MIRANDA DO CORVO";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2250
+:Cd1e2250 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OLIVEIRA DO HOSPITAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2389
+:Cd1e2389 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PAMPILHOSA DA SERRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2459
+:Cd1e2459 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PENELA";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2505
+:Cd1e2505 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TÁBUA";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2606
+:Cd1e2606 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA NOVA DE POIARES";
+:populacao "100000"
+:pertenceDistrito :Dd1e1999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2648
+:Cd1e2648 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALVAIÁZERE";
+:populacao "100000"
+:pertenceDistrito :Dd1e2641.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2700
+:Cd1e2700 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ANSIÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e2641.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2758
+:Cd1e2758 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CASTANHEIRA DE PÊRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e2641.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2779
+:Cd1e2779 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FIGUEIRÓ DOS VINHOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e2641.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2818
+:Cd1e2818 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PEDRÓGÃO GRANDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e2641.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e2854
+:Cd1e2854 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CANTANHEDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e2847.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3180
+:Cd1e3180 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CONDEIXA-A-NOVA";
+:populacao "100000"
+:pertenceDistrito :Dd1e2847.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3250
+:Cd1e3250 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FIGUEIRA DA FOZ";
+:populacao "100000"
+:pertenceDistrito :Dd1e2847.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3370
+:Cd1e3370 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e2847.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3404
+:Cd1e3404 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONTEMOR-O-VELHO";
+:populacao "100000"
+:pertenceDistrito :Dd1e2847.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3499
+:Cd1e3499 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PENACOVA";
+:populacao "100000"
+:pertenceDistrito :Dd1e2847.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3575
+:Cd1e3575 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SOURE";
+:populacao "100000"
+:pertenceDistrito :Dd1e2847.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3667
+:Cd1e3667 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "AGUIAR DA BEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e3660.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3765
+:Cd1e3765 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CARREGAL DO SAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3817
+:Cd1e3817 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CASTRO DAIRE";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e3961
+:Cd1e3961 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MANGUALDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4081
+:Cd1e4081 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MORTÁGUA";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4151
+:Cd1e4151 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "NELAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4216
+:Cd1e4216 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OLIVEIRA DE FRADES";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4299
+:Cd1e4299 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PENALVA DO CASTELO";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4388
+:Cd1e4388 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SANTA COMBA DÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4452
+:Cd1e4452 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SÃO PEDRO DO SUL";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4578
+:Cd1e4578 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SÁTÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4661
+:Cd1e4661 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TONDELA";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e4831
+:Cd1e4831 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA NOVA DE PAIVA";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e5101
+:Cd1e5101 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VOUZELA";
+:populacao "100000"
+:pertenceDistrito :Dd1e3758.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e5193
+:Cd1e5193 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALMEIDA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e5380
+:Cd1e5380 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CELORICO DA BEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e5524
+:Cd1e5524 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FIGUEIRA DE CASTELO RODRIGO";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e5985
+:Cd1e5985 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MANTEIGAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e6019
+:Cd1e6019 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MÊDA";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e6126
+:Cd1e6126 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PINHEL";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e6301
+:Cd1e6301 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SABUGAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e6556
+:Cd1e6556 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TRANCOSO";
+:populacao "100000"
+:pertenceDistrito :Dd1e5186.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e6753
+:Cd1e6753 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FORNOS DE ALGODRES";
+:populacao "100000"
+:pertenceDistrito :Dd1e6746.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7004
+:Cd1e7004 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SEIA";
+:populacao "100000"
+:pertenceDistrito :Dd1e6746.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7200
+:Cd1e7200 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALCOBAÇA";
+:populacao "100000"
+:pertenceDistrito :Dd1e7193.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7320
+:Cd1e7320 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BOMBARRAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e7193.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7359
+:Cd1e7359 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CALDAS DA RAINHA";
+:populacao "100000"
+:pertenceDistrito :Dd1e7193.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7466
+:Cd1e7466 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "NAZARÉ";
+:populacao "100000"
+:pertenceDistrito :Dd1e7193.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7493
+:Cd1e7493 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ÓBIDOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e7193.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7558
+:Cd1e7558 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PENICHE";
+:populacao "100000"
+:pertenceDistrito :Dd1e7193.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7613
+:Cd1e7613 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALENQUER";
+:populacao "100000"
+:pertenceDistrito :Dd1e7606.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7720
+:Cd1e7720 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ARRUDA DOS VINHOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e7606.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7753
+:Cd1e7753 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CADAVAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e7606.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7823
+:Cd1e7823 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LOURINHÃ";
+:populacao "100000"
+:pertenceDistrito :Dd1e7606.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7899
+:Cd1e7899 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SOBRAL DE MONTE AGRAÇO";
+:populacao "100000"
+:pertenceDistrito :Dd1e7606.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e7927
+:Cd1e7927 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TORRES VEDRAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e7606.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8068
+:Cd1e8068 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BATALHA";
+:populacao "100000"
+:pertenceDistrito :Dd1e8061.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8288
+:Cd1e8288 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MARINHA GRANDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e8061.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8315
+:Cd1e8315 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "POMBAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e8061.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8428
+:Cd1e8428 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PORTO DE MÓS";
+:populacao "100000"
+:pertenceDistrito :Dd1e8061.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8526
+:Cd1e8526 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ABRANTES";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8652
+:Cd1e8652 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALCANENA";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8722
+:Cd1e8722 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CONSTÂNCIA";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8749
+:Cd1e8749 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ENTRONCAMENTO";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8770
+:Cd1e8770 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FERREIRA DO ZÊZERE";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8835
+:Cd1e8835 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SARDOAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8868
+:Cd1e8868 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TOMAR";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e8975
+:Cd1e8975 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TORRES NOVAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9088
+:Cd1e9088 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA NOVA DA BARQUINHA";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9127
+:Cd1e9127 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OURÉM";
+:populacao "100000"
+:pertenceDistrito :Dd1e8519.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9256
+:Cd1e9256 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "AROUCA";
+:populacao "100000"
+:pertenceDistrito :Dd1e9249.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9388
+:Cd1e9388 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SANTA MARIA DA FEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e9249.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9588
+:Cd1e9588 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OLIVEIRA DE AZEMÉIS";
+:populacao "100000"
+:pertenceDistrito :Dd1e9249.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9714
+:Cd1e9714 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SÃO JOÃO DA MADEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e9249.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9729
+:Cd1e9729 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VALE DE CAMBRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e9249.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9803
+:Cd1e9803 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CASTELO DE PAIVA";
+:populacao "100000"
+:pertenceDistrito :Dd1e9796.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9876
+:Cd1e9876 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CABECEIRAS DE BASTO";
+:populacao "100000"
+:pertenceDistrito :Dd1e9869.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e9989
+:Cd1e9989 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CELORICO DE BASTO";
+:populacao "100000"
+:pertenceDistrito :Dd1e9869.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e10142
+:Cd1e10142 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "AMARANTE";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e10397
+:Cd1e10397 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BAIÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e10529
+:Cd1e10529 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FELGUEIRAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e10735
+:Cd1e10735 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LOUSADA";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e10898
+:Cd1e10898 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MARCO DE CANAVESES";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e11099
+:Cd1e11099 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PAÇOS DE FERREIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e11206
+:Cd1e11206 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PAREDES";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e11363
+:Cd1e11363 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PENAFIEL";
+:populacao "100000"
+:pertenceDistrito :Dd1e10135.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e11615
+:Cd1e11615 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONDIM DE BASTO";
+:populacao "100000"
+:pertenceDistrito :Dd1e11608.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e11673
+:Cd1e11673 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "RIBEIRA DE PENA";
+:populacao "100000"
+:pertenceDistrito :Dd1e11608.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e11734
+:Cd1e11734 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CINFÃES";
+:populacao "100000"
+:pertenceDistrito :Dd1e11727.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e11847
+:Cd1e11847 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "RESENDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e11727.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12006
+:Cd1e12006 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "GONDOMAR";
+:populacao "100000"
+:pertenceDistrito :Dd1e11999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12089
+:Cd1e12089 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MAIA";
+:populacao "100000"
+:pertenceDistrito :Dd1e11999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12202
+:Cd1e12202 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MATOSINHOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e11999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12373
+:Cd1e12373 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PÓVOA DE VARZIM";
+:populacao "100000"
+:pertenceDistrito :Dd1e11999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12457
+:Cd1e12457 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VALONGO";
+:populacao "100000"
+:pertenceDistrito :Dd1e11999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12496
+:Cd1e12496 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA DO CONDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e11999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12690
+:Cd1e12690 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA NOVA DE GAIA";
+:populacao "100000"
+:pertenceDistrito :Dd1e11999.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e12856
+:Cd1e12856 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "AMARES";
+:populacao "100000"
+:pertenceDistrito :Dd1e12849.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e13013
+:Cd1e13013 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BARCELOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e12849.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e13961
+:Cd1e13961 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ESPOSENDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e12849.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e14062
+:Cd1e14062 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TERRAS DE BOURO";
+:populacao "100000"
+:pertenceDistrito :Dd1e12849.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e14551
+:Cd1e14551 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FAFE";
+:populacao "100000"
+:pertenceDistrito :Dd1e14544.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e14782
+:Cd1e14782 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "GUIMARÃES";
+:populacao "100000"
+:pertenceDistrito :Dd1e14544.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e15216
+:Cd1e15216 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PÓVOA DE LANHOSO";
+:populacao "100000"
+:pertenceDistrito :Dd1e14544.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e15403
+:Cd1e15403 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VIEIRA DO MINHO";
+:populacao "100000"
+:pertenceDistrito :Dd1e14544.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e15541
+:Cd1e15541 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA NOVA DE FAMALICÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e14544.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e15853
+:Cd1e15853 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VIZELA";
+:populacao "100000"
+:pertenceDistrito :Dd1e14544.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e15914
+:Cd1e15914 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SANTO TIRSO";
+:populacao "100000"
+:pertenceDistrito :Dd1e15907.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e16138
+:Cd1e16138 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALFÂNDEGA DA FÉ";
+:populacao "100000"
+:pertenceDistrito :Dd1e16131.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e16581
+:Cd1e16581 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MACEDO DE CAVALEIROS";
+:populacao "100000"
+:pertenceDistrito :Dd1e16131.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e16824
+:Cd1e16824 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MIRANDA DO DOURO";
+:populacao "100000"
+:pertenceDistrito :Dd1e16131.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e16937
+:Cd1e16937 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MIRANDELA";
+:populacao "100000"
+:pertenceDistrito :Dd1e16131.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e17175
+:Cd1e17175 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MOGADOURO";
+:populacao "100000"
+:pertenceDistrito :Dd1e16131.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e17356
+:Cd1e17356 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VIMIOSO";
+:populacao "100000"
+:pertenceDistrito :Dd1e16131.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e17451
+:Cd1e17451 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VINHAIS";
+:populacao "100000"
+:pertenceDistrito :Dd1e16131.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e17684
+:Cd1e17684 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BOTICAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e17677.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e17791
+:Cd1e17791 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CHAVES";
+:populacao "100000"
+:pertenceDistrito :Dd1e17677.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e18114
+:Cd1e18114 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONTALEGRE";
+:populacao "100000"
+:pertenceDistrito :Dd1e17677.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e18338
+:Cd1e18338 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MURÇA";
+:populacao "100000"
+:pertenceDistrito :Dd1e17677.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e18402
+:Cd1e18402 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VALPAÇOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e17677.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e18603
+:Cd1e18603 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA POUCA DE AGUIAR";
+:populacao "100000"
+:pertenceDistrito :Dd1e17677.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e18733
+:Cd1e18733 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CARRAZEDA DE ANSIÃES";
+:populacao "100000"
+:pertenceDistrito :Dd1e18726.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e18859
+:Cd1e18859 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FREIXO DE ESPADA À CINTA";
+:populacao "100000"
+:pertenceDistrito :Dd1e18726.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e18905
+:Cd1e18905 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TORRE DE MONCORVO";
+:populacao "100000"
+:pertenceDistrito :Dd1e18726.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e19018
+:Cd1e19018 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA FLOR";
+:populacao "100000"
+:pertenceDistrito :Dd1e18726.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e19153
+:Cd1e19153 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA NOVA DE FOZ CÔA";
+:populacao "100000"
+:pertenceDistrito :Dd1e19146.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e19275
+:Cd1e19275 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALIJÓ";
+:populacao "100000"
+:pertenceDistrito :Dd1e19268.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e19453
+:Cd1e19453 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PESO DA RÉGUA";
+:populacao "100000"
+:pertenceDistrito :Dd1e19268.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e19536
+:Cd1e19536 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SABROSA";
+:populacao "100000"
+:pertenceDistrito :Dd1e19268.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e19637
+:Cd1e19637 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SANTA MARTA DE PENAGUIÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e19268.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e19911
+:Cd1e19911 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ARMAMAR";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20037
+:Cd1e20037 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LAMEGO";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20194
+:Cd1e20194 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MOIMENTA DA BEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20326
+:Cd1e20326 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PENEDONO";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20390
+:Cd1e20390 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SÃO JOÃO DA PESQUEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20486
+:Cd1e20486 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SERNANCELHE";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20599
+:Cd1e20599 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TABUAÇO";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20712
+:Cd1e20712 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TAROUCA";
+:populacao "100000"
+:pertenceDistrito :Dd1e19904.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e20791
+:Cd1e20791 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ARCOS DE VALDEVEZ";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e21114
+:Cd1e21114 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CAMINHA";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e21246
+:Cd1e21246 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MELGAÇO";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e21366
+:Cd1e21366 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONÇÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e21578
+:Cd1e21578 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PAREDES DE COURA";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e21717
+:Cd1e21717 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PONTE DA BARCA";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e21880
+:Cd1e21880 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PONTE DE LIMA";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22203
+:Cd1e22203 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VALENÇA";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22565
+:Cd1e22565 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA NOVA DE CERVEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e20784.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22675
+:Cd1e22675 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALJUSTREL";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22714
+:Cd1e22714 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALMODÔVAR";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22772
+:Cd1e22772 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALVITO";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22793
+:Cd1e22793 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BARRANCOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22929
+:Cd1e22929 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CASTRO VERDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e22968
+:Cd1e22968 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CUBA";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23001
+:Cd1e23001 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FERREIRA DO ALENTEJO";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23047
+:Cd1e23047 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MÉRTOLA";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23111
+:Cd1e23111 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MOURA";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23169
+:Cd1e23169 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OURIQUE";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23216
+:Cd1e23216 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SERPA";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23268
+:Cd1e23268 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VIDIGUEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e22668.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23311
+:Cd1e23311 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ODEMIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e23304.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23433
+:Cd1e23433 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALCÁCER DO SAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e23426.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23479
+:Cd1e23479 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "GRÂNDOLA";
+:populacao "100000"
+:pertenceDistrito :Dd1e23426.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23518
+:Cd1e23518 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SANTIAGO DO CACÉM";
+:populacao "100000"
+:pertenceDistrito :Dd1e23426.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23594
+:Cd1e23594 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SINES";
+:populacao "100000"
+:pertenceDistrito :Dd1e23426.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23624
+:Cd1e23624 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALANDROAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23670
+:Cd1e23670 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ARRAIOLOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23722
+:Cd1e23722 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BORBA";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23755
+:Cd1e23755 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ESTREMOZ";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e23971
+:Cd1e23971 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONTEMOR-O-NOVO";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24068
+:Cd1e24068 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PORTEL";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24126
+:Cd1e24126 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "REDONDO";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24147
+:Cd1e24147 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "REGUENGOS DE MONSARAZ";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24186
+:Cd1e24186 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VENDAS NOVAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24208
+:Cd1e24208 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VIANA DO ALENTEJO";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24235
+:Cd1e24235 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA VIÇOSA";
+:populacao "100000"
+:pertenceDistrito :Dd1e23617.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24283
+:Cd1e24283 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SOUSEL";
+:populacao "100000"
+:pertenceDistrito :Dd1e24276.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24325
+:Cd1e24325 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MORA";
+:populacao "100000"
+:pertenceDistrito :Dd1e24318.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24367
+:Cd1e24367 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALTER DO CHÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24400
+:Cd1e24400 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ARRONCHES";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24427
+:Cd1e24427 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "AVIS";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24485
+:Cd1e24485 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CAMPO MAIOR";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24512
+:Cd1e24512 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CASTELO DE VIDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24546
+:Cd1e24546 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CRATO";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24592
+:Cd1e24592 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ELVAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24668
+:Cd1e24668 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FRONTEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24734
+:Cd1e24734 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MARVÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24767
+:Cd1e24767 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONFORTE";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24801
+:Cd1e24801 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "NISA";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e24871
+:Cd1e24871 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PONTE DE SOR";
+:populacao "100000"
+:pertenceDistrito :Dd1e24360.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25003
+:Cd1e25003 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "AZAMBUJA";
+:populacao "100000"
+:pertenceDistrito :Dd1e24996.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25076
+:Cd1e25076 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALMEIRIM";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25109
+:Cd1e25109 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALPIARÇA";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25124
+:Cd1e25124 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BENAVENTE";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25157
+:Cd1e25157 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CARTAXO";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25215
+:Cd1e25215 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CHAMUSCA";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25326
+:Cd1e25326 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "GOLEGÃ";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25347
+:Cd1e25347 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "RIO MAIOR";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25442
+:Cd1e25442 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SALVATERRA DE MAGOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e25069.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25678
+:Cd1e25678 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALBUFEIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25717
+:Cd1e25717 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALCOUTIM";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25756
+:Cd1e25756 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALJEZUR";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25789
+:Cd1e25789 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CASTRO MARIM";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25915
+:Cd1e25915 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LAGOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e25961
+:Cd1e25961 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LOULÉ";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26037
+:Cd1e26037 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONCHIQUE";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26064
+:Cd1e26064 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OLHÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26103
+:Cd1e26103 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PORTIMÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26131
+:Cd1e26131 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SÃO BRÁS DE ALPORTEL";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26146
+:Cd1e26146 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SILVES";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26204
+:Cd1e26204 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "TAVIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26268
+:Cd1e26268 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA DO BISPO";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26307
+:Cd1e26307 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA REAL DE SANTO ANTÓNIO";
+:populacao "100000"
+:pertenceDistrito :Dd1e25671.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26343
+:Cd1e26343 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CASCAIS";
+:populacao "100000"
+:pertenceDistrito :Dd1e26336.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26724
+:Cd1e26724 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LOURES";
+:populacao "100000"
+:pertenceDistrito :Dd1e26336.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26844
+:Cd1e26844 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MAFRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e26336.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e26957
+:Cd1e26957 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "OEIRAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e26336.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27028
+:Cd1e27028 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SINTRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e26336.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27160
+:Cd1e27160 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA FRANCA DE XIRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e26336.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27236
+:Cd1e27236 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "AMADORA";
+:populacao "100000"
+:pertenceDistrito :Dd1e26336.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27373
+:Cd1e27373 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALCOCHETE";
+:populacao "100000"
+:pertenceDistrito :Dd1e27366.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27400
+:Cd1e27400 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ALMADA";
+:populacao "100000"
+:pertenceDistrito :Dd1e27366.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27476
+:Cd1e27476 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "BARREIRO";
+:populacao "100000"
+:pertenceDistrito :Dd1e27366.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27580
+:Cd1e27580 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MONTIJO";
+:populacao "100000"
+:pertenceDistrito :Dd1e27366.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27639
+:Cd1e27639 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PALMELA";
+:populacao "100000"
+:pertenceDistrito :Dd1e27366.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27678
+:Cd1e27678 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SEIXAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e27366.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27724
+:Cd1e27724 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SESIMBRA";
+:populacao "100000"
+:pertenceDistrito :Dd1e27366.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27818
+:Cd1e27818 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CALHETA";
+:populacao "100000"
+:pertenceDistrito :Dd1e27811.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27876
+:Cd1e27876 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CÂMARA DE LOBOS";
+:populacao "100000"
+:pertenceDistrito :Dd1e27811.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27915
+:Cd1e27915 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "FUNCHAL";
+:populacao "100000"
+:pertenceDistrito :Dd1e27811.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e27985
+:Cd1e27985 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "MACHICO";
+:populacao "100000"
+:pertenceDistrito :Dd1e27811.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28024
+:Cd1e28024 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PONTA DO SOL";
+:populacao "100000"
+:pertenceDistrito :Dd1e27811.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28052
+:Cd1e28052 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PORTO MONIZ";
+:populacao "100000"
+:pertenceDistrito :Dd1e27811.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28085
+:Cd1e28085 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "RIBEIRA BRAVA";
+:populacao "100000"
+:pertenceDistrito :Dd1e27811.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28240
+:Cd1e28240 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PORTO SANTO";
+:populacao "100000"
+:pertenceDistrito :Dd1e28233.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28264
+:Cd1e28264 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA DO PORTO";
+:populacao "100000"
+:pertenceDistrito :Dd1e28257.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28351
+:Cd1e28351 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "NORDESTE";
+:populacao "100000"
+:pertenceDistrito :Dd1e28305.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28572
+:Cd1e28572 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "POVOAÇÃO";
+:populacao "100000"
+:pertenceDistrito :Dd1e28305.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28618
+:Cd1e28618 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "RIBEIRA GRANDE";
+:populacao "100000"
+:pertenceDistrito :Dd1e28305.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28714
+:Cd1e28714 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VILA FRANCA DO CAMPO";
+:populacao "100000"
+:pertenceDistrito :Dd1e28305.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28769
+:Cd1e28769 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "ANGRA DO HEROÍSMO";
+:populacao "100000"
+:pertenceDistrito :Dd1e28762.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28895
+:Cd1e28895 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "PRAIA DA VITÓRIA";
+:populacao "100000"
+:pertenceDistrito :Dd1e28762.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e28980
+:Cd1e28980 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SANTA CRUZ DA GRACIOSA";
+:populacao "100000"
+:pertenceDistrito :Dd1e28973.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e29022
+:Cd1e29022 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CALHETA DE S. JORGE";
+:populacao "100000"
+:pertenceDistrito :Dd1e29015.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e29061
+:Cd1e29061 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "VELAS";
+:populacao "100000"
+:pertenceDistrito :Dd1e29015.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e29117
+:Cd1e29117 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LAJES DO PICO";
+:populacao "100000"
+:pertenceDistrito :Dd1e29110.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e29209
+:Cd1e29209 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SÃO ROQUE DO PICO";
+:populacao "100000"
+:pertenceDistrito :Dd1e29110.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e29355
+:Cd1e29355 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "LAJES DAS FLORES";
+:populacao "100000"
+:pertenceDistrito :Dd1e29348.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e29407
+:Cd1e29407 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "SANTA CRUZ DAS FLORES";
+:populacao "100000"
+:pertenceDistrito :Dd1e29348.
+            
+
+###  http://prc2018.di.uminho.pt/mapa#Cd1e29449
+:Cd1e29449 rdf:type owl:NamedIndividual ,
+:Cidade ;
+:nome "CORVO";
+:populacao "100000"
+:pertenceDistrito :Dd1e29442.
+            
